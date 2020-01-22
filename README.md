@@ -1,2 +1,4 @@
-# Utilities
-Convenience methods for JS
+## Utilities - Convenience methods for JS
+
+- Object methods
+    - flatten.js 
