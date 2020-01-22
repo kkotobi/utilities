@@ -1,2 +1,2 @@
-# utilities
+# Utilities
 Convenience methods for JS
