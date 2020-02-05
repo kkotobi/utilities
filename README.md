@@ -1,4 +1,5 @@
 ## Utilities - Convenience methods for JS
 
 - Object methods
-    - flatten.js 
+    - flatten.js
+    - unFlatten.js 
