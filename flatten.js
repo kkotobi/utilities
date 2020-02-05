@@ -29,4 +29,4 @@ const flatten = (source = {}, flattenedKeys = '', constructedResp = {}) => {
   return constructedResp;
 };
 
-export default flatten;
+module.exports = flatten;
